@@ -11,9 +11,6 @@ public class FindSubString {
         return "aaaaaabbbbbbf";
     }
 
-
-    // Function to find the longest substring with all
-    // distinct characters using a sliding window
     public static String findLongestSubstring(String str)
     {
         
